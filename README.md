@@ -1,4 +1,4 @@
-# Spring-Boot-Spring-Security-JWT-Token-
+# Spring-Boot-Book-Shop
 Spring Boot Token based Authentication with Spring Security &amp; JWT
 
 
